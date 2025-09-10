@@ -1,10 +1,10 @@
-# Cardiff-LLMs
+# WHAT’S IN A NAME: THE IMPACT OF ANONYMOUS AI VOICE-REPORTING ON DRUG OVERDOSES AND VIOLENT CRIMES
 Anonymous AI ambient-speech reporting to overcome under-reporting and systemic barriers fueling overdoses and violent crime; Cardiff-Model-aligned, HIPAA-compliant, FHIR-integrated.
 
 # Project Inspiration :⚕️: Technology Innovations - Iyishia Keller - Data for Good
 
-![Screenshot 2024-03-15 005201](https://github.com/ShanaraTech/Cardiff-LLMs/assets/...) 
-Image Courtesy of [Puls Poza Gratuite - Public Domain Pictures](https://www.publicdomainpictures.net/ro/view-image.php?image=43096&picture=puls)
+![picture alt](./https://drive.google.com/file/d/1ju6jkI_wVemRWNRWxPLTY0CgUgvBn59D/view?usp=drive_link) 
+Image Courtesy of [Google Stock Images]
 
 The Cardiff Model for Violence Prevention has proven effective at linking public safety and well-being to community-wide collaboration and strategic coordination. However, many violent crimes and overdoses go unreported since people fear identity disclosure, humiliation, and misuse of their personal information. All of which are detrimental to crisis prevention and weaken response efficacy overall.
  
@@ -24,6 +24,8 @@ Iyisha didn’t fit the stereotype of a person battling addiction. That is the p
 
 # Project Background Objective :lab_coat: :stethoscope: :pill: 
 This project integrates the Cardiff Model's data-sharing principles with modern speech-to-text AI technologies (Whisper, NLP Cloud) to enable anonymous, accessible, and compliant reporting of overdose and violent crime events.
+![RMPic1](https://github.com/user-attachments/assets/75d75acb-2187-4dcf-aaf7-2dbfc0050c7f)
+![RMPic1](https://github.com/user-attachments/assets/f4e10744-b9c2-4a95-8a9d-db6fc5b131f3)
 
 **Workflow Stages:**
 1. Voice input (victim or witness)
